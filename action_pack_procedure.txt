@@ -1,0 +1,12 @@
+Why Action Pack...?
+What is Action Pack...?
+What problem does Action pack solve...? (DSL - MP)
+What are the components of Action Pack..?
+Examples.
+
+MIME
+
+
+decoding parameters in POST, PATCH, or PUT bodies
+
+cookies and sessions
